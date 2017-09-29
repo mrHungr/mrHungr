@@ -2,7 +2,7 @@
 
 /* HEADER */
 .header {
-	color: #fff; background: #79CE98;
+	color: #fff; background: #2754e8;
 }
 
 .single-page-layout .header .vs-nav {
@@ -78,7 +78,7 @@
 }
 
 .header {
-	background: #5CB4BD;
+	background: #57bee6;
 }
 
 .header h1 {
@@ -124,14 +124,14 @@ ul.skill-list li {
 }
 
 ul.skill-list li strong {
-	color: #5CB4BD;
+	color: #57bee6;
 	font-size: 1.05em;
 	text-decoration: underline;
 }
 
 .skill-list span {
 	font-weight: bold;
-	color: #5CB4BD;
+	color: #57bee6;
 	font-size: 1.5em;
 }
 
@@ -205,7 +205,7 @@ ul.skill-list li strong {
 
 /* Search */
 .tipue_search_content_url a {
-	color: #5CB4BD;
+	color: #57bee6;
 }
 
 .tipue_search_content_url a:hover {
